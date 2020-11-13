@@ -13,7 +13,7 @@ const Exercise = props => (
       </td>
     </tr>
   )
-
+//Test Commit
 
 export default class ExercisesList extends Component {
 
